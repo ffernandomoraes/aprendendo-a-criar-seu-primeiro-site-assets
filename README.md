@@ -1,4 +1,4 @@
 
-# Assets do curso Aprendendo a criar seu primeiro site.
+# Assets do curso: Aprendendo a criar seu primeiro site.
 
 Baixe em ZIP os arquivos.
